@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    
+    text-align: center;
+    font-size: 3rem;
+    text-transform: uppercase;
+    
+    
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+    font-family: 'Shadows Into Light', cursive;
+    margin-top: 100px;
+}
+img{
+    width: 100%;
+    border: 5px solid white;
+}
+p{
+    color: yellow;
+    text-align: center;
+    font-size: 20px ;
+    
+}
